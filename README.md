@@ -1271,6 +1271,6 @@ This project is intended for:
 
 ---
 
-## 🚀 Made with ❤️ by Priyanshu Pathak
+## 🚀 Made with ❤️ by Piyush Sinha
 
 </div>
